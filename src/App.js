@@ -1,10 +1,10 @@
 import React from "react";
-import UserList from "./UserList";
+import Dashboard from "./Dashboard";
 
 function App() {
   return (
     <div>
-      <UserList />
+      <Dashboard />
     </div>
   );
 }
