@@ -1,10 +1,10 @@
 import React from "react";
-import StudentManager from "./StudentManager";
+import UserList from "./UserList";
 
 function App() {
   return (
     <div>
-      <StudentManager />
+      <UserList />
     </div>
   );
 }
